@@ -7,6 +7,6 @@ public class mlops {
     @GetMapping("/mlops")
 
     public String getData() {
-        return  "Welcome...! to mlOps class" ;
+        return  "Welcome...! to mlOps" ;
     }
 }
