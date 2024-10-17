@@ -8,6 +8,6 @@ public class deeplearning {
     @GetMapping("/deeplearning")
 
     public String getData() {
-        return  "Welcome...! to Deeplearning class" ;
+        return  "Welcome...! to DL class" ;
     }
 }
