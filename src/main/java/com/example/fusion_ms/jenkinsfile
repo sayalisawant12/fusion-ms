@@ -10,7 +10,7 @@ pipeline {
 <<<<<<< HEAD
         maven 'maven 3.9.4'
 =======
-        maven 'maven_3.9.4'
+        maven 'maven 3.9.4'
 >>>>>>> 60da019fdaf373e363f052e3235d9258daf17999
     }
 
