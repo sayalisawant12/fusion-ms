@@ -8,6 +8,6 @@ public class aws {
     @GetMapping("/aws")
 
     public String getData() {
-        return  "Welcome...! to AWS class" ;
+        return  "Welcom.!..... to AWS class" ;
     }
 }
